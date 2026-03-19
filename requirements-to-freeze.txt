@@ -8,3 +8,4 @@ lxml
 pyquery
 requests
 soco
+pyasn1>=0.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
